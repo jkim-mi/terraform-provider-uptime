@@ -1,7 +1,7 @@
 package uptime
 
 import (
-	uptime "github.com/uptime-com/rest-api-clients/golang/uptime"
+	"github.com/uptime-com/uptime-client-go"
 	"github.com/hashicorp/terraform-plugin-sdk/v2/helper/schema"
 )
 
